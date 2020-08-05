@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color:white;
+    transition: color 0.5s ease-in-out;
+}
+
+.clicked{
+    color: #7f8c8d;
+}
+
